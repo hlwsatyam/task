@@ -1,0 +1,42 @@
+.box {
+    text-decoration: none;
+    padding: 10px;
+    background: #ffffff;
+    border: 1px solid #e49898;
+    border-radius: 1rem;
+    list-style: none;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.box>span {
+    font-size: 16px;
+    padding: 0 10px;
+    color: #000;
+    display: inline-block;
+    font-size: 18px;
+    text-transform: capitalize;
+    text-overflow: ellipsis;
+    max-width: 45%;
+    font-family: 'Courier New';
+    color: #000000;
+}
+
+button {
+    padding: 2px 5px;
+    background: #005e10;
+    border: 1px solid #777;
+    border-radius: 10%;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer !important;
+}
+
+.footer {
+    position: static;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+
+}

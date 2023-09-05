@@ -1,0 +1,9 @@
+body {
+
+  width: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position:top;
+  background-size: cover;
+  background-image: url("https://images.pexels.com/photos/2736499/pexels-photo-2736499.jpeg?cs=srgb&dl=pexels-content-pixie-2736499.jpg&fm=jpg");
+}
