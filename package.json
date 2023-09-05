@@ -1,8 +1,6 @@
 {
 
 
-  "homepage": "http://hlwsatyam.github.io/todo-application",
-
 
   "name": "todo",
 
@@ -53,12 +51,6 @@
 
 
   "scripts": {
-
-
-    "predeploy": "npm run build",
-
-
-    "deploy": "gh-pages -d build",
 
 
     "start": "react-scripts start",
@@ -133,7 +125,7 @@
   "devDependencies": {
 
 
-    "gh-pages": "^5.0.0"
+   
 
 
   }
